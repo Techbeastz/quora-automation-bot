@@ -14,7 +14,7 @@ Features
 - Trend-Focused Marketing: Leverage trending topics for better engagement and conversions.
 - Performance Analytics: Track your success and optimize your strategy with detailed analytics.
 
-Getting Started
+Getting Started Here: https://software.tentary.com/p/xHZu1G
 
 To get started with the Quora Automation Bot, follow these simple steps:
 
@@ -62,6 +62,7 @@ Acknowledgments
 Earning Proof
 
 Check out the Earning Proof to see the potential of the Quora Automation Bot.
+: https://photos.app.goo.gl/XnRPzszKLdwcgYbt8
 
 Bonus
 
